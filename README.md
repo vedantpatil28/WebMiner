@@ -1,4 +1,4 @@
-**# WebMiner**
+# WebMiner
 **Explore here**: https://webminer.onrender.com/
 
 WebMiner is a Python-based web scraper that automates the extraction of data from target websites. Instead of using a database, it stores the extracted data in Excel format for easy access and analysis. This project is designed to be user-friendly, allowing users to scrape and export data quickly and efficiently.
