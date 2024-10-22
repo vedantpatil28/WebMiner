@@ -11,7 +11,7 @@ Handles HTTP requests using the Requests library to fetch webpage content.
 Simple web interface powered by Flask for interaction.
 Built-in logging for tracking the scraper’s activity and performance.
 
-**Technologies Used**
+**Technologies Used** 
 
 Python: Core programming language for the scraper.
 Flask: Provides the web framework for user interaction.
